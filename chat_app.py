@@ -72,5 +72,6 @@ if st.sidebar.button("🔄 Reset Conversation"):
 
 
 
+st.markdown('**Design And Devloped by:akash kumar**')
 
 
